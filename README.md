@@ -9,7 +9,7 @@
   <li><b>TypeScript</b></li>
   <li><b>React</b></li>
 </ul>
-<h3>Preview: https://indigo04.github.io/my_TodoApp/#/ </h3>
+<h3>Preview: https://indigo04.github.io/my_TodoApp/</h3>
 <h2>Requirements:</h2>
 <details>
   <br>
